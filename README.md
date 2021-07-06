@@ -5,6 +5,8 @@ Test one. Yehaw!!
 
 Test two, for branches! Get it? Neither do i
 
-test 2 and a half. calf. that's weird
+Test 2 and a half. calf. that's weird
 
-test in a new machine. Yes, it's Linux Mint... sorry!
+Test in a new machine. Yes, it's Linux Mint... sorry!
+
+Another test, this time, its Kubuntu... let's config!
