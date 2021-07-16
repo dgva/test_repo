@@ -12,3 +12,5 @@ Test in a new machine. Yes, it's Linux Mint... sorry!
 Another test, this time, its Kubuntu... let's config!
 
 Another one! SSH, damn son. Kwallet, why you doin this to me??
+
+Kubuntu.... damn
