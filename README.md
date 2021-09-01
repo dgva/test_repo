@@ -26,3 +26,5 @@ more rebase, upos, i did bad i guess
 
 
 well well well... more stuff!
+
+VIM test. Let's go!
