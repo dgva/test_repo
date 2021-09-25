@@ -13,17 +13,4 @@ More code... i mean, text. Text!
 
 let's go!
 tghdfjahfgjkda
-fdsafgdsa
-tgdsagdsagdsagdsajfkdsanfkdsnajkfdnsma,fndsa
-gfda
-gfda
-gfd
-ag
-fdaghnfdk.agnjkfdhngfd
-gfhdjk;ghfd
-gdfsfahjkl;fgdhsajklfdhsjakfhdjsa
-fdsafjkdshajfkdshjfds
-afhjiehguriehugirtesbvuirtehuigtrewhuitghuujier5tghnjir5t
-grfdsgrfds
-fghdjsklahfgjdkslahgjdklsa
 
