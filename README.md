@@ -1,5 +1,8 @@
 # test_repo
-Repository to learn how to use git. This will be a wild ride!
+Repository to learn how to use git, and overal testing. This will be a wild ride!
+
+---
+## Test area
 
 Let's get more tests in the belt, shall we?
 More tests. blahblahblahblahblahblahblahblahblahblahblah
@@ -23,3 +26,4 @@ fdsafjkdshajfkdshjfds
 afhjiehguriehugirtesbvuirtehuigtrewhuitghuujier5tghnjir5t
 grfdsgrfds
 fghdjsklahfgjdkslahgjdklsa
+
