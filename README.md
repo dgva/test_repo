@@ -13,5 +13,3 @@ More code... i mean, text. Text!
 
 let's go!
 tghdfjahfgjkda
-
-fdsafdsafsa
